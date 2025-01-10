@@ -1,1 +1,3 @@
 making fie 3
+adding more lines
+hello to git
