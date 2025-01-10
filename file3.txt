@@ -1,1 +1,3 @@
 making fie 3
+adding new lines in file3
+adding another line
