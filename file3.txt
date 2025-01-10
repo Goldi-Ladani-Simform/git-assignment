@@ -1,3 +1,3 @@
 making fie 3
-adding more lines
-hello to git
+adding new lines in file3
+adding another line
